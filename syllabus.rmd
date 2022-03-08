@@ -1,0 +1,59 @@
+---
+title: "Ecology"
+subtitle: "BIOL 309W"
+author: "Doug Sponsler"
+output: pdf_document
+---
+
+# Instructor
+Dr. Douglas Sponsler
+
+# Learning objectives
+
+1. Students will become conversant in the central concepts, methods, and vocabulary of ecology. 
+2. Students will be equipped to respond wisely to the contemporary crises of climate change and biodiversity loss. 
+2. Students will become learn to use models to explore complex systems. 
+3. Students will practice critical reading of primary ecological literature
+
+# Teaching philosophy
+
+This course is shaped by three guiding principles:
+
+## 1. Active learning
+
+In general, each 50-minute class period will consist of a 20-minute introductory lecture, a 10-20 minute exercise, and a 10-20 minute closing lecture/discussion. Introductory lectures will introduce key concepts in a concise, narrative form. Exercises will typically involve working in small groups to produce concept maps and/or simulated data sets related to the lecture and associated readings. Closing lectures/discussions will be flexible in form and serve to synthesize the content of the introductory lecture with the work produced during in-class exercises.
+
+## 2. Understanding through modeling
+
+Science seeks to understand the world through the formulation, testing, and refinement of causal models. In many of our laboratory sessions, we will turn conceptual models (e.g. "local abiotic conditions act a filter of regional species pools") into computational models that allow us to "tinker" with ideas and relate them to empirical measurements. No background in computer programming or statistics is required, but students will be exposed to these techniques in an appropriately scaffolded way.  
+
+## 3. Engagement with primary literature
+
+Primary literature is an acquired taste, and the skills required to read it well take years to develop. Throughout the course, we will read and critique primary literature together, laying a foundation of scientific literacy and learning to read between the lines of published studies to get glimpses of the actual scientific process --- warts and all.
+
+
+Exposure to primary literature
+Understanding through modeling
+
+# Course materials
+
+Textbook: Molles and Sher (2018) *Ecology: Concepts and Applications*, 8th Ed.
+
+Laptop computers will be required for laboratory sessions. All work will be cloud-based and independent of local operating systems.
+<!-- http://netlogoweb.org/ -->
+<!-- RStudio Cloud -->
+
+# Laboratory 
+Field work
+Computation: ecological modeling and data analysis in Netlogo and R
+
+# Assessment
+
+Exams: 60% (3 x 20%)
+Labs: 30% (6 x 5%)
+Paper : 15%
+
+
+# Course outline
+
+Week 1
